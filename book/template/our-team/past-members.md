@@ -13,7 +13,7 @@ note on where they went next.
 ![<RESEARCHER 1 NAME>](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
 ^^^
 
-**`<RESEARCHER 1 NAME>`**  
+**`<haribo>`**  
 _Research Software Engineer_  
 [{fa}`at`](mailto:USERNAME@ORGANIZATION.NET)
 [{fa}`linkedin,style=fab`](https://www.linkedin.com)
@@ -25,7 +25,7 @@ About me... `<NAME>` has a background in `<BACKGROUND>` and works with `<COLLABO
 They enjoy `<HOBBIES>` and recently took part in `<FUN THING>`.
 
 **Research:** 
-- `<RESEARCH INTERESTS>`
+- `<gummy ring>`
 
 **Current projects:**
 - [Project 1](../projects/project1)
